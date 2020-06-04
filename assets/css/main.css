@@ -3329,6 +3329,8 @@ input, select, textarea {
 		}
 			.resume-body .pitch{
 				text-align: center;
+				padding-bottom: 1rem;
+				font-size: 1.2rem;;
 			}
 
 			.resume-body > p{
@@ -3354,3 +3356,52 @@ input, select, textarea {
 			}
 
 		}
+
+.resume-heading{
+	color: #1E77E1;
+	font-family: "Palatino Linotype", serif;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 14pt;
+}
+
+.resume-subheading{
+	color: #172A45;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 12pt;
+}
+
+.resume-content > * > p{
+	margin-bottom: 0 !important;
+}
+
+.s8{
+	color: #172A45;
+	font-family: "Courier New", monospace;
+	font-style: italic;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 9pt;
+}
+
+#l1 > * > p{
+	margin-bottom: 0;
+	color: black;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 12pt;
+	margin: 0pt;
+}
+
+.s10{
+	margin-bottom: 0;
+	color: black;
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 12pt;
+	margin: 0pt;
+}
